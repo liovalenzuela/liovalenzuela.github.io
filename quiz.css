@@ -1,0 +1,64 @@
+h1 {
+  color: #f1be32;
+  font-size: min(5vw, 1.8em);
+  text-align: center;
+  background-color: black;
+}
+
+body {
+	background-color: rgb(242, 241, 228);
+	color:  black: ;
+	font-style: sans serif;
+	font-size: 1.2rem;
+	font-weight: bolder;
+	margin-left: 3rem;
+}
+
+
+div {
+	border-bottom: 3px solid rgb(42,42,34);
+}
+
+#button {
+	background-color: black;
+	color:  white;
+	padding: 2px;
+	font-size:  1.2rem;
+}
+
+.respuesta {
+	margin-top: -20px;
+	margin-bottom: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: rgb(234,234,234);
+}
+
+
+#res_button {
+	background-color: steelblue;
+	color: white;
+	padding: 2px;
+	font-size:  1.1rem;
+}
+
+#end_button {
+	background-color: steelblue;
+	color: white;
+	padding: 2px;
+	font-size:  1.1rem;
+}
+
+.resultado-completo {
+	background-color: white;
+	height: 2.0rem;
+	padding: auto;
+}
+
+.fin {
+	width:  100%;
+	padding:  auto;
+	background-color: black;
+	display:  block;
+	border-bottom: 2.0 rem;
+}
