@@ -99,7 +99,7 @@ function check() {
 	if (q34=="Un predominio de G-C en la composición del ADN para evitar la desnaturalización") {c++}
 	if (q35=="Es una moneda energética que posee dos uniones de alta energía que al hidrolizarse producen un ΔG < 0") {c++}
 	if (q36=="3’-AACGAATTAACGCATTTT-5’") {c++}
-	if (q37=="800 A, 800 G, 3200 T, 3200 C") {c++}
+	if (q37=="3200 G, 3200 C, 800 A, 800 T") {c++}
 	if (q38=="Los desmosomas cumplen la función de unión mecánica célula-célula, mientras que los hemidesmosomas cumplen la misma función pero entre la célula y la matriz extracelular") {c++}
 	if (q39=="Poseen un potencial de membrana negativo debido a la salida de K+ a favor de gradiente desde el interior celular") {c++}
 	if (q40=="Provocará la entrada de Na+, produciéndose la despolarización de la membrana (inversión del potencial de membrana)") {c++}
